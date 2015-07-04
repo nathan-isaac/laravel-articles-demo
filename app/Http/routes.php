@@ -11,6 +11,11 @@
 |
 */
 
-Route::get('/', function () {
+get('/', function() {
     return view('welcome');
 });
+
+/**
+ * Article Routes
+ */
+resource('articles', ArticlesController::class);
