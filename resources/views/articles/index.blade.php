@@ -15,4 +15,6 @@
             </div>
         </div>
     @endunless
+
+    {!! $articles->render() !!}
 @endsection
