@@ -1,6 +1,6 @@
 ## Laravel Articles Demo
 
-A little example project to demonstrate how to `view` `update` and `delete` articles with laravel 5.1. 
+A little example project to demonstrate how to `view`, `create`, `update` and `delete` articles with laravel 5.1. 
 
 ### Install
 
